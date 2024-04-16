@@ -1,0 +1,7 @@
+{
+  "name": "pwa-inventur",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
